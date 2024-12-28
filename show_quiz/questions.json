@@ -1,0 +1,183 @@
+[
+    {
+      "category": "OPERATING SYSTEM",
+      "question": "What is the main function of an operating system?",
+      "options": ["A. Manage hardware", "B. Write code", "C. Perform calculations", "D. Create graphics"],
+      "answer": "A"
+    },
+    {
+      "category": "OPERATING SYSTEM",
+      "question": "Which operating system is open source?",
+      "options": ["A. Windows", "B. Linux", "C. macOS", "D. DOS"],
+      "answer": "B"
+    },
+    {
+      "category": "OPERATING SYSTEM",
+      "question": "What does GUI stand for in operating systems?",
+      "options": ["A. General User Interface", "B. Graphical User Interface", "C. Guided User Interaction", "D. General Utility Interface"],
+      "answer": "B"
+    },
+    {
+      "category": "OPERATING SYSTEM",
+      "question": "Which of these is not a type of operating system?",
+      "options": ["A. Batch", "B. Time-sharing", "C. Real-time", "D. Logic-based"],
+      "answer": "D"
+    },
+    {
+      "category": "OPERATING SYSTEM",
+      "question": "What is the purpose of the kernel in an operating system?",
+      "options": ["A. Manages hardware", "B. Creates applications", "C. Encrypts data", "D. Manages internet connections"],
+      "answer": "A"
+    },
+    {
+      "category": "COMPUTER NETWORKING",
+      "question": "What does IP stand for?",
+      "options": ["A. Internet Protocol", "B. Internet Page", "C. Integrated Protocol", "D. Internal Page"],
+      "answer": "A"
+    },
+    {
+      "category": "COMPUTER NETWORKING",
+      "question": "What device connects networks together?",
+      "options": ["A. Router", "B. CPU", "C. Monitor", "D. Printer"],
+      "answer": "A"
+    },
+    {
+      "category": "COMPUTER NETWORKING",
+      "question": "What is the full form of TCP?",
+      "options": ["A. Transmission Control Protocol", "B. Transmission Channel Path", "C. Transfer Control Path", "D. Transfer Channel Protocol"],
+      "answer": "A"
+    },
+    {
+      "category": "COMPUTER NETWORKING",
+      "question": "What does DNS do in networking?",
+      "options": ["A. Provides IP addresses", "B. Encrypts data", "C. Manages hardware", "D. Connects two networks"],
+      "answer": "A"
+    },
+    {
+      "category": "COMPUTER NETWORKING",
+      "question": "What protocol is used for secure web communication?",
+      "options": ["A. HTTP", "B. HTTPS", "C. FTP", "D. SMTP"],
+      "answer": "B"
+    },
+    {
+      "category": "DBMS",
+      "question": "What does SQL stand for?",
+      "options": ["A. Structured Query Language", "B. Simple Query List", "C. Standard Query Language", "D. Stored Query Language"],
+      "answer": "A"
+    },
+    {
+      "category": "DBMS",
+      "question": "Which command is used to retrieve data from a database?",
+      "options": ["A. SELECT", "B. INSERT", "C. DELETE", "D. UPDATE"],
+      "answer": "A"
+    },
+    {
+      "category": "DBMS",
+      "question": "Which of the following is a type of database?",
+      "options": ["A. Hierarchical", "B. Sequential", "C. Abstract", "D. Scalar"],
+      "answer": "A"
+    },
+    {
+      "category": "DBMS",
+      "question": "What is a primary key in a database?",
+      "options": ["A. Unique identifier for a row", "B. Secondary identifier", "C. Data encryption key", "D. A foreign key"],
+      "answer": "A"
+    },
+    {
+      "category": "DBMS",
+      "question": "Which SQL command is used to delete a table?",
+      "options": ["A. DROP", "B. DELETE", "C. REMOVE", "D. CLEAR"],
+      "answer": "A"
+    },
+    {
+      "category": "PHYSICS",
+      "question": "What is the unit of force?",
+      "options": ["A. Joule", "B. Newton", "C. Pascal", "D. Watt"],
+      "answer": "B"
+    },
+    {
+      "category": "PHYSICS",
+      "question": "What does E=mc² represent?",
+      "options": ["A. Theory of Gravity", "B. Theory of Relativity", "C. Theory of Thermodynamics", "D. Theory of Electromagnetism"],
+      "answer": "B"
+    },
+    {
+      "category": "PHYSICS",
+      "question": "What is the speed of light in a vacuum?",
+      "options": ["A. 300,000 km/s", "B. 150,000 km/s", "C. 450,000 km/s", "D. 600,000 km/s"],
+      "answer": "A"
+    },
+    {
+      "category": "PHYSICS",
+      "question": "What is the unit of electric current?",
+      "options": ["A. Volt", "B. Ohm", "C. Ampere", "D. Watt"],
+      "answer": "C"
+    },
+    {
+      "category": "PHYSICS",
+      "question": "Who formulated the law of universal gravitation?",
+      "options": ["A. Einstein", "B. Newton", "C. Tesla", "D. Galileo"],
+      "answer": "B"
+    },
+    {
+      "category": "BASIC ELECTRONICS",
+      "question": "Which component stores electrical charge?",
+      "options": ["A. Resistor", "B. Capacitor", "C. Transistor", "D. Diode"],
+      "answer": "B"
+    },
+    {
+      "category": "BASIC ELECTRONICS",
+      "question": "What is the purpose of a resistor?",
+      "options": ["A. Increase current", "B. Store charge", "C. Limit current", "D. Act as a switch"],
+      "answer": "C"
+    },
+    {
+      "category": "BASIC ELECTRONICS",
+      "question": "What does LED stand for?",
+      "options": ["A. Light Emitting Diode", "B. Low Energy Device", "C. Light Electrical Device", "D. Low Energy Diode"],
+      "answer": "A"
+    },
+    {
+      "category": "BASIC ELECTRONICS",
+      "question": "What component amplifies signals?",
+      "options": ["A. Capacitor", "B. Resistor", "C. Transistor", "D. Diode"],
+      "answer": "C"
+    },
+    {
+      "category": "BASIC ELECTRONICS",
+      "question": "Which device converts AC to DC?",
+      "options": ["A. Rectifier", "B. Transformer", "C. Inductor", "D. Resistor"],
+      "answer": "A"
+    },
+    {
+      "category": "BASIC ML",
+      "question": "What is supervised learning?",
+      "options": ["A. Learning without labeled data", "B. Learning with labeled data", "C. Self-learning", "D. Reinforcement learning"],
+      "answer": "B"
+    },
+    {
+      "category": "BASIC ML",
+      "question": "Which algorithm is used for classification?",
+      "options": ["A. Linear Regression", "B. Decision Tree", "C. Clustering", "D. Sorting"],
+      "answer": "B"
+    },
+    {
+      "category": "BASIC ML",
+      "question": "What is a neural network?",
+      "options": ["A. A type of hardware", "B. A mathematical model inspired by human brain", "C. An algorithm for sorting data", "D. A device used in electronics"],
+      "answer": "B"
+    },
+    {
+      "category": "BASIC ML",
+      "question": "What is overfitting in machine learning?",
+      "options": ["A. Model fits well on training data but poorly on new data", "B. Model performs well on all datasets", "C. Model's complexity is too low", "D. Model performs poorly on training data"],
+      "answer": "A"
+    },
+    {
+      "category": "BASIC ML",
+      "question": "Which type of learning is K-means?",
+      "options": ["A. Supervised", "B. Unsupervised", "C. Reinforcement", "D. Self-supervised"],
+      "answer": "B"
+    }
+  ]
+  

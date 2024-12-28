@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MCQ Quiz App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <h1>MCQ Quiz App</h1>
+    <div id="category-selection">
+      <label for="categories">Choose a category:</label>
+      <select id="categories">
+        <option value="OPERATING SYSTEM">OPERATING SYSTEM</option>
+        <option value="COMPUTER NETWORKING">COMPUTER NETWORKING</option>
+        <option value="DBMS">DBMS</option>
+        <option value="PHYSICS">PHYSICS</option>
+        <option value="BASIC ELECTRONICS">BASIC ELECTRONICS</option>
+        <option value="BASIC ML">BASIC ML</option>
+       <!-- <option value="custom">Make Your Own Quiz</option>   -->
+      </select>
+      <button id="start-quiz">Start Quiz</button>
+    </div>
+    
+    <div id="quiz-container" style="display: none;">
+      <h2 id="question"></h2>
+      <ul id="options"></ul>
+      <div id="mic-indicator">🎤</div>
+      <div id="recognized-text" style="margin-top: 10px; font-weight: bold; color: #555;"></div>
+    </div>
+    
+    <div id="score"></div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
